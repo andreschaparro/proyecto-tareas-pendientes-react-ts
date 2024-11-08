@@ -1,6 +1,6 @@
 # Proyecto: Lista de tareas con react y typescript
 
-[LINK A LA WEB(NETLIFY)](https://pr-tareas-pendientes-react-ts.netlify.app/)
+[LINK A LA WEB(NETLIFY)](https://app-tareas-pendientes-react-ts.netlify.app/)
 
 📝: Cuando se crea el proyecto con `vite` elegir `React > Typescript + SWC`.
 
