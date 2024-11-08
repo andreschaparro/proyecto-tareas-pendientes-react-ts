@@ -22,7 +22,7 @@ export const TodoApp = () => {
 
     return (
         <>
-            <h1 className="text-center mb-3">Lista de Tareas</h1>
+            <h1 className="text-center mb-3">Lista de Tareas con React y TS</h1>
             <div className="container w-25">
                 <div className="form-group">
                     <input
